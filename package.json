@@ -1,7 +1,7 @@
 {
   "name": "vanride",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/brandonjturner/vanride.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/brandonjturner/vanride/issues"
   },
