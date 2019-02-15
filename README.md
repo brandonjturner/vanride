@@ -20,4 +20,5 @@ Technologies used
     nodemon,
     mLab,
     REDUX,
+    and
     OAuth    
