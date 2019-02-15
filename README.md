@@ -1,7 +1,7 @@
 Please make your own branch and no one push to the master. 
 
 
-Technology:
+Technologies used
     MongoDB,
     Postman,
     Prettier/Atom,
